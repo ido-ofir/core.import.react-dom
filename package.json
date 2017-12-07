@@ -1,6 +1,6 @@
 {
-  "name": "core.imports.react-dom",
-  "version": "0.1.4",
+  "name": "core.import.react-dom",
+  "version": "15.4.2",
   "description": "react-dom for core",
   "main": "index.js",
   "dependencies": {
